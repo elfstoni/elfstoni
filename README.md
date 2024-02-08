@@ -1,6 +1,7 @@
 # About me
-
+<!--
 **elfstoni/elfstoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 🧠 I'm Bianca, a psychology student currently navigating the realms of academia and professional development.
 
